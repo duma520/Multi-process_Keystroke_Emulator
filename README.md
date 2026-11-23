@@ -1,10 +1,6 @@
 # Multi-process_Keystroke_Emulator （见源码内 VERSION 常量）
 
-> **一句话**：Multi-process_Keystroke_Emulator —— 进程管理工具。
->
-> **适合谁**：想直接用现成工具、不想自己写代码的 Windows 用户。
->
-> **解决什么问题**：把「进程管理工具」这件事做成开箱即用的程序 —— 下载解压、装上依赖、双击就能跑。
+> **一句话**：多进程按键模拟器：把进程分到「按 A / 无操作 / 按 D」三列，给指定进程持续发按键或手柄信号（vgamepad 虚拟手柄、usb.core 直发 USB、pynput 键鼠），彼此互不干扰；带多用户登录与配置持久化。
 
 ---
 
